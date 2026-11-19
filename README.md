@@ -1,0 +1,3 @@
+# IAdePartitura
+
+Projeto importado.
